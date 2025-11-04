@@ -5,6 +5,7 @@ Una aplicación de Pokédex nativa para Android construida con Kotlin y el kit d
 <p align="center">
     <img src="https://github.com/HectorJCGuzman/pokedex/blob/main/assets/ListPreview_1.png" width="300"/>
     <img src="https://github.com/HectorJCGuzman/pokedex/blob/main/assets/DetailsPreview_1.png" width="300"/>
+    <img src="https://github.com/HectorJCGuzman/pokedex/blob/main/assets/Encounter_2.png" width="300"/>
     <img src="https://github.com/HectorJCGuzman/pokedex/blob/main/assets/Encounter_1.png" width="300"/>
 <p>
 
